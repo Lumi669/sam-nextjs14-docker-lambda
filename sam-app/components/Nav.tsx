@@ -17,6 +17,9 @@ const Nav: React.FC = () => {
         <Link href="/hello" className="text-lg font-semibold">
           Live
         </Link>
+        <Link href="/users" className="text-lg font-semibold">
+          Users section
+        </Link>
       </div>
     </nav>
   );
