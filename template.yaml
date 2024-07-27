@@ -20,7 +20,7 @@ Resources:
           Type: HttpApi
     Metadata:
       DockerTag: v1
-      DockerContext: ./app
+      DockerContext: ./sam-app
       Dockerfile: Dockerfile
 Outputs:
   NextAppStackUrl:
