@@ -1,8 +1,8 @@
 version = 0.1
 [default.deploy.parameters]
-stack_name = "sam-nextjs14-lambda"
+stack_name = "aaa"
 resolve_s3 = true
-s3_prefix = "sam-nextjs14-lambda"
+s3_prefix = "aaa"
 region = "eu-north-1"
 confirm_changeset = true
 capabilities = "CAPABILITY_IAM"
