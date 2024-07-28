@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+
+.aws-sam/build.toml
+.aws-sam/build/template.yaml
